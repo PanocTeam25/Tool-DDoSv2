@@ -25,4 +25,6 @@ $ls
 
 $python3 Noname-DDoSv2.py
 
-$python Noname-DDoSv2.py
+$python2 Noname-DDoSv2.py
+
+$python2 Noname-DDoSv2.py
